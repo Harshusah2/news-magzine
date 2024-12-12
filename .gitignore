@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-src/Components/NewsBoard.jsx
+# hide env file
 .env
 
 # Editor directories and files
