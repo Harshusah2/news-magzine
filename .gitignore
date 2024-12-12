@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-src\Components\NewsBoard.jsx
+src/Components/NewsBoard.jsx
 .env
 
 # Editor directories and files
